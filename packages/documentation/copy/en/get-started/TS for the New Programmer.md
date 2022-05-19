@@ -64,7 +64,7 @@ Here's the error TypeScript found:
 ```ts twoslash
 // @errors: 2551
 const obj = { width: 10, height: 15 };
-const area = obj.width * obj.heigth;
+const area = obj.width * obj.height;
 ```
 
 ### A Typed Superset of JavaScript
